@@ -5,6 +5,7 @@ short_description = Sonderversion für den stationären Alkohol- und Medikamente
 type = patient
 
 [description]
+Sonderversion für den stationären Alkohol- und Medikamentenbereich.
 
 [developer]
 first_name = Nora
